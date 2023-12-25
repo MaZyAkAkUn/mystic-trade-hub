@@ -1,2 +1,2 @@
-# mystic-trade-hub
+# MysticTradeHub
 MysticTradeHub - fantasy world economic simulator.
